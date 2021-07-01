@@ -254,7 +254,7 @@ font-weight: bolder;
     }
         
 
-        @media(max-width:700px){
+        @media(max-width:400px){
 
             .a-bold{
                 font-weight: bolder;
