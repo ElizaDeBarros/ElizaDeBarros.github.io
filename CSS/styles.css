@@ -308,7 +308,7 @@ font-weight: bolder;
             p {
                 margin: 0 auto 0 auto;
                 line-height: 1.5;
-                font-size: 5rem;   
+                font-size: 10rem;   
             }
 
             .profile {
@@ -340,7 +340,7 @@ font-weight: bolder;
             }
 
             .table-font {
-                font-size: 5rem;
+                font-size: 10rem;
             }
 
             .top-container {
