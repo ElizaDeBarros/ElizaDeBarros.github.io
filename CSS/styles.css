@@ -252,8 +252,12 @@ font-weight: bolder;
 
         @media(max-width:700px){
 
+            .a-bold{
+                font-weight: bolder;
+            }
+
             .arcgis {
-                width: 11%;
+                width: 16%;
                 margin-left: 10px;
             }
 
@@ -289,19 +293,19 @@ font-weight: bolder;
             }
     
             .office {
-                width: 10%;
+                width: 15%;
                 margin-left: 10px;
             }
             
             .ow {
-                width: 9%;
+                width: 14%;
                 margin-left: 10px;
             }
 
             p {
                 margin: 0 auto 0 auto;
                 line-height: 1.5;
-                font-size: 0.8rem;   
+                font-size: 1.5rem;   
             }
 
             .profile {
@@ -309,57 +313,57 @@ font-weight: bolder;
             }
 
             .postgresql {
-                width: 10%;
+                width: 15%;
                 margin-left: 10px;
             }
             
             .powerbi{
-                width: 12%;
+                width: 17%;
                 margin-left: 10px;
             }
             
             .python {
-                width: 10%;
+                width: 15%;
                 margin-left: 10px;
             }
             
             .qgis {
-                width: 11%;
+                width: 16%;
                 margin-left: 10px;
             }
 
             .table-font {
-                font-size: 1rem;
+                font-size: 1.5rem;
             }
 
             .wasp {
-                width: 9%;
+                width: 14%;
                 margin-left: 10px;
             }
             
             .web {
-                width: 12%;
+                width: 14%;
                 margin-left: 10px;
             
             }
             
             .windog {
-                width: 11%;
+                width: 16%;
                 margin-left: 10px;
             }
             
             .wind_farmer {
-                width: 10%;
+                width: 15%;
                 margin-left: 10px;
             }
             
             .wind_pro {
-                width: 11%;
+                width: 161%;
                 margin-left: 10px;
             }
             
             .windsim {
-                width: 11%;
+                width: 16%;
                 margin-left: 10px;
              }
 
