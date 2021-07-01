@@ -225,6 +225,10 @@ color: #3C8DAD;
 font-weight: bolder;
 }
 
+#p-rules {
+    
+}
+
 
 /**************************small screen adjustments***************/
 
@@ -308,7 +312,11 @@ font-weight: bolder;
             p {
                 margin: 0 auto 0 auto;
                 line-height: 1.5;
-                font-size: 10rem;   
+                font-size:xx-large;  
+            }
+
+            #p-rules {
+                font-size:xx-large;
             }
 
             .profile {
