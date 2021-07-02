@@ -309,14 +309,14 @@ font-weight: bolder;
                 margin-left: 10px;
             }
 
-            p {
+            .p {
                 margin: 0 auto 0 auto;
                 line-height: 1.5;
                 font-size:xx-large;  
             }
 
             #p-rules {
-                font-size:xx-large;
+                font-size:100px;
             }
 
             .profile {
