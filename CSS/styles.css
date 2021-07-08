@@ -51,13 +51,51 @@ a:hover {
     color: white;
 }
 
+form {
+    max-width:600px;
+    min-width:250px;
+    padding:10px 10px;
+    border: 0px;
+    border-radius:10px;
+    font-family:'Montserrat', sans-serif;
+    font-weight: bold;
+    background-color:white
+    }
+
+    input[type=text] {
+    width:90%;
+    padding:10px;
+    margin-top:30px;
+    border:1px solid #3C8DAD;
+    padding-left:40px;
+    font-size:16px;
+    font-family:'Montserrat', sans-serif;
+    font-weight: bolder;
+    }
+    
+    textarea {
+    background-position:5px 7px;
+    width:90%;
+    height:95px;
+    padding:10px;
+    resize:none;
+    margin-top:30px;
+    border:1px solid #3C8DAD;
+    padding-left:40px;
+    font-size:16px;
+    font-family:'Montserrat', sans-serif;
+    font-weight: bolder;
+    margin-bottom:30px
+    }
+    
+
 /*****************************CLASS**********************************/
 .arcgis {
     width: 6%;
     margin-left: 10px;
 }
 
-.btn {
+#send {
     background: #6792a1;
     background-image: -webkit-linear-gradient(top, #6792a1, #388cab);
     background-image: -moz-linear-gradient(top, #6792a1, #388cab);
@@ -75,7 +113,7 @@ a:hover {
     text-decoration: none;
   }
   
-  .btn:hover {
+  #send:hover {
     background: #82b3c2;
     background-image: -webkit-linear-gradient(top, #82b3c2, #5195ad);
     background-image: -moz-linear-gradient(top, #82b3c2, #5195ad);
@@ -389,4 +427,3 @@ font-weight: bolder;
                 margin-left: 10px;
              }
         }
-        
